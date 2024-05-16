@@ -55,14 +55,14 @@ http://192.168.124.253:8888/udp/239.49.8.89:8000
 http://192.168.124.253:8888/udp/239.49.8.92:8000
 #EXTINF:-1 tvg-id="35" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png",风云剧场
 http://192.168.124.253:8888/udp/239.49.9.10:6000
-#EXTINF:-1 tvg-id="36" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png",文化精品
+#EXTINF:-1 tvg-id="36" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png",风云足球
+http://192.168.124.253:8888/udp/239.49.8.85:8000
+#EXTINF:-1 tvg-id="37" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png",文化精品
 http://192.168.124.253:8888/udp/239.49.8.90:8000
-#EXTINF:-1 tvg-id="37" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
+#EXTINF:-1 tvg-id="38" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png",第一剧场
 http://192.168.124.253:8888/udp/239.49.8.94:8000
-#EXTINF:-1 tvg-id="38" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
+#EXTINF:-1 tvg-id="39" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
 http://192.168.124.253:8888/udp/239.49.8.45:8044
-#EXTINF:-1 tvg-id="39" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场
-http://192.168.124.253:8888/udp/239.49.8.106:8000
 #EXTINF:-1 tvg-id="40" tvg-name="南京新闻" tvg-logo="https://live.fanmingming.com/tv/南京新闻.png",南京新闻
 http://192.168.124.253:8888/udp/239.49.0.25:8192
 #EXTINF:-1 tvg-id="41" tvg-name="南京十八" tvg-logo="https://live.fanmingming.com/tv/南京十八.png",南京十八
@@ -153,3 +153,7 @@ http://192.168.124.253:8888/udp/239.49.8.119:8000
 http://192.168.124.253:8888/udp/239.49.8.79:8000
 #EXTINF:-1 tvg-id="84" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
 http://192.168.124.253:8888/udp/239.49.8.33:8000
+#EXTINF:-1 tvg-id="85" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
+http://dms.yryyj.site:8188/udp/239.76.247.81:1234
+#EXTINF:-1 tvg-id="86" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",欢笑剧场
+http://192.168.124.253:8888/udp/239.49.8.106:8000
